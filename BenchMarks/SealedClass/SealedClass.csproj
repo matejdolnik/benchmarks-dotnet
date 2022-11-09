@@ -16,9 +16,5 @@
       <Content Include="bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\SealedClass.BenchMarks-report-github.md" />
       <Content Include="SealedClass.BenchMarks-net6-report-github.md" />
     </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="bin\Release\net6.0\BenchmarkDotNet.Artifacts\results" />
-    </ItemGroup>
-
+    
 </Project>
